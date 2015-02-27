@@ -1,0 +1,15 @@
+========= Info for raw, train, and test data ===========
+
+good_road = 12673 (12640 lines selected for 316 windows)
+good_road_train = 8840 lines for 221 windows
+good_road_test = 3800 lines for 95 windows
+
+
+fair_road = 4384 (4360 lines selected for 109 windows)
+fair_road_train = 3040 lines for 76 windows
+fair_road_test = 1320 lines for 33 windows
+
+
+bad_road = 8564 (8560 lines selected for 214 windows)
+bad_road_train = 5960 lines for 149 windows
+bad_road_test = 2600 lines for 65 windows
